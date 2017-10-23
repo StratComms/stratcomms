@@ -169,3 +169,6 @@ h2 {
 	color: blue;
 	text-size: 35px;
 }
+img {
+	float: left;
+}
