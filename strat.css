@@ -78,7 +78,7 @@ align-items: center;
 	height:  37vh;
 	margin: 10px;
 	background-image: url("videos/ericg.jpg");
-	repeat: no-repeat;
+	background-repeat: no-repeat;
 }
 .b2 {
 	width: 35vw;
