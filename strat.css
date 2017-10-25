@@ -158,6 +158,8 @@ align-items: center;
 }
  p {
 	 text-align: center;
+	 color: gray;
+	 text-size: 50px;
  }
 h1 {
 	margin-left: 100px;
