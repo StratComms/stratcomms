@@ -173,4 +173,6 @@ img {
 	width: 95px;
 	height: 95px;
 }
-
+img {
+	float: left;
+}
