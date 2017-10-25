@@ -46,7 +46,7 @@ align-items: center;
 	width: 95px;
 	height: 95px;
 	margin: 30px;
-	background-color: red;
+	
 	
 
 
@@ -55,7 +55,7 @@ align-items: center;
 	width: 95px;
 	height: 95px;
 	margin: 30px;
-	background-color: red;
+	
 	
 	
 }
@@ -63,8 +63,7 @@ align-items: center;
 	width: 95px;
 	height: 95px;
 	margin: 30px;
-	background-color: red;
-
+	
 	
 
 }
@@ -72,7 +71,7 @@ align-items: center;
 	width: 95px;
 	height:95px;
 	margin: 30px;
-	background-color: red;
+	
 	
 	
 	
@@ -169,10 +168,8 @@ h2 {
 	color: blue;
 	text-size: 35px;
 }
-img {
+.img {
 	width: 95px;
 	height: 95px;
 }
-img {
-	float: left;
-}
+
