@@ -163,7 +163,8 @@ h1 {
 }
 h2 {
 	color: blue;
-	text-size: 35px;
+	text-size: 100px;
+	font-family: exo;
 }
 .img {
 	width: 95px;
