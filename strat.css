@@ -86,7 +86,6 @@ align-items: center;
 .b2 {
 	width: 35vw;
 	height:  25vh;
-	background-color: purple;
 }
 .center-horizontal {
 	display: flex;
