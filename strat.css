@@ -78,6 +78,8 @@ align-items: center;
 	height:  37vh;
 	background-color: green;
 	margin: 10px;
+	background-image: url("videos/ericg.jpg");
+	repeat: no-repeat;
 }
 .b2 {
 	width: 35vw;
@@ -173,9 +175,4 @@ h2 {
 .img2 {
 	width: 10%;
 	height: 10%;
-}
-.img3 {
-	background-image: url("videos/ericg.jpg")
-	repeat: no-repeat;
-	
 }
