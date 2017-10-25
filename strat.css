@@ -176,5 +176,6 @@ h2 {
 }
 .img3 {
 	background-image: url("videos/ericg.jpg")
+	repeat: no-repeat;
 	
 }
