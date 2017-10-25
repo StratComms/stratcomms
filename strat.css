@@ -170,4 +170,11 @@ h2 {
 	width: 95px;
 	height: 95px;
 }
-
+.img2 {
+	width: 10%;
+	height: 10%;
+}
+.img3 {
+	background-image: url("videos/ericg.jpg")
+	
+}
