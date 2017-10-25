@@ -29,6 +29,8 @@ align-items: center;
 .box1 {
 	width: 1000px;
 	height: 1000px;
+	background-image: url("videos/ericg.jpg");
+	background-repeat: no-repeat;
 	
 	
 }
@@ -78,8 +80,6 @@ align-items: center;
 	width: 70vw;
 	height:  37vh;
 	margin: 10px;
-	background-image: url("videos/ericg.jpg");
-	background-repeat: no-repeat;
 }
 .b2 {
 	width: 35vw;
